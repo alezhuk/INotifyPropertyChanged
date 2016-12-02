@@ -1,0 +1,2 @@
+# INotifyPropertyChanged
+Liquidate backing fields
